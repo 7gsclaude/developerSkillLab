@@ -1,0 +1,23 @@
+
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+    padding-top: 150px;
+  }
+  .card {
+    border: 1rem solid red;
+    border-radius: 30px;
+  }
+  
+  h3{
+    color: aqua;
+    background-color: dimgray;
+    border-radius: 5px;
+
+  }
+  
+
+
